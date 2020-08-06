@@ -2,9 +2,7 @@
 
 ![Pacman VS Ghost](/pacmanvsghost.png)
 
-Game for two players made it with React and Socket.IO. This game was made for educational purposes.
-
-With this game you can learn about Redux-saga, React Hooks and Websocket integration.
+Game for two players built with React and Socket.IO for educational purposes, in which you can learn about Redux-saga, React Hooks and Websocket integration.
 
 ### Installing
 
