@@ -35,7 +35,7 @@ export const Config = {
 
 ## Authors
 
-- Carlos Santander - Full Stack Developer - [PurpleBooth](https://github.com/csantanderv)
+- Carlos Santander - Full Stack Developer.
 
 ## License
 
